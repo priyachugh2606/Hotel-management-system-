@@ -1,4 +1,4 @@
- 🏨 Hotel Management System (Java Console Application)
+ 🏨 Hotel Reservation System (Java Console Application)
 
 This is a simple **Hotel Management System** built using Java. It allows users to manage room bookings interactively via a console-based menu.
 
